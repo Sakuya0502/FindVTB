@@ -14,4 +14,6 @@ App功能:
 
 4.快速前往該VTB的官方網站
 
+[下載APK](https://github.com/z20030818/FindVTB/releases/tag/2.0.5)
+
 注意:本app目前僅支援Android系統，沒有支援IOS與Windows系統，請見諒
